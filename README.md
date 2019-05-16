@@ -1,2 +1,2 @@
 # JavaPrograms
-Testing desktop use
+Testing Ubuntu command line functionality
